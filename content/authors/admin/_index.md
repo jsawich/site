@@ -99,7 +99,7 @@ social:
     link: 'mailto:wichert@mak.uni-hannover.de'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://www.connectedpapers.com/
     label: Follow me on Twitter
     display:
       header: true
