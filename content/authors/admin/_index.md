@@ -38,16 +38,16 @@ education:
   courses:
     - course: Visiting Researcher
       institution: UC San Diego 
-      year: 2021
+      year: 2021-2022
     - course: PhD student researcher
       institution: Leibniz University Hannover
-      year: 2019
+      year: Since 2019
     - course: MSc Economics
       institution: LMU Munich
-      year: 2016
+      year: 2016-2019
     - course: BA Philosophy & Economics
       institution: Bayreuth University
-      year: 2012
+      year: 2012-2016
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -99,16 +99,16 @@ social:
     link: 'mailto:wichert@mak.uni-hannover.de'
   - icon: twitter
     icon_pack: fab
-    link: https://www.connectedpapers.com/
+    link: https://www.twitter.com/julianwichert
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/julian-wichert/

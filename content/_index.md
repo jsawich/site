@@ -192,7 +192,7 @@ sections:
   - block: collection
     id: publication
     content:
-      title: Submitted
+      title: Under Review
       filters:
         folders:
           - publication
@@ -202,7 +202,7 @@ sections:
       view: card
   - block: collection
     content:
-      title: Current research
+      title: Current Research
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
