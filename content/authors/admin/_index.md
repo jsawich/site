@@ -36,18 +36,18 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: PhD student/Researcher
+      institution: Leibniz University Hannover
+      year: since 2019
     - course: Visiting Researcher
       institution: UC San Diego 
       year: 2021-2022
-    - course: PhD student researcher
-      institution: Leibniz University Hannover
-      year: Since 2019
     - course: MSc Economics
       institution: LMU Munich
-      year: 2016-2019
+      year: 2019
     - course: BA Philosophy & Economics
       institution: Bayreuth University
-      year: 2012-2016
+      year: 2016
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

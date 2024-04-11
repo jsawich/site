@@ -62,7 +62,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: PhD student
+        - title: PhD Student/Researcher
           company: Leibniz University Hannover
           company_url: ''
           company_logo: org-LUH
@@ -75,7 +75,7 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Visiting researcher
+        - title: Visiting Researcher
           company: UC San Diego
           company_url: ''
           company_logo: org-x
