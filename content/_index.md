@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
-date: 2022-10-24
+date: 2024-04-11
 type: landing
 
 sections:
@@ -244,7 +244,7 @@ sections:
         street: Königsworther Platz 1
         city: Hannover
         #region: 
-        postcode: '40167'
+        postcode: '30167'
         country: Germany
         country_code: DE
       directions: Ground floor
