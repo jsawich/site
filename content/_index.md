@@ -192,7 +192,7 @@ sections:
   - block: collection
     id: publication
     content:
-      title: Current Research
+      title: Submitted
       filters:
         folders:
           - publication
@@ -202,7 +202,7 @@ sections:
       view: card
   - block: collection
     content:
-      title: In preparation
+      title: Current research
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -214,16 +214,16 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Recent & Upcoming Talks
+  #     filters:
+  #       folders:
+  #         - event
+  #   design:
+  #     columns: '2'
+  #     view: compact
   # - block: tag_cloud
   #   content:
   #     title: Popular Topics
@@ -235,7 +235,8 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Feel free to contact me, I am looking forward to your message. 
+        Feel free to contact me, I am looking forward to your message. You can also meet me this year at the following conferences: 
+        German Development Economics Hannover 2024, EAERE Leuven 2024, BBQ Groningen 2024.
       # Contact (add or remove contact options as necessary)
       email: wichert@mak.uni-hannover.de
       #phone: 888 888 88 88
