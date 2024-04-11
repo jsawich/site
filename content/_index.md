@@ -190,9 +190,9 @@ sections:
   #   design:
   #     columns: '1'
   - block: collection
-    id: featured
+    id: publication
     content:
-      title: Featured Publications
+      title: Current Research
       filters:
         folders:
           - publication
