@@ -95,7 +95,7 @@ sections:
           date_start: '2019-07-01'
           date_end: ''
           description: |2-
-              *Wissenschaftlicher Mitarbeiter*
+              Wissenschaftlicher Mitarbeiter
 
               * Analysing
               * Modelling
