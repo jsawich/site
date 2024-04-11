@@ -65,7 +65,7 @@ sections:
         - title: PhD student
           company: Leibniz University Hannover
           company_url: ''
-          company_logo: org-gc
+          company_logo: org-LUH
           location: Hannover, Germany
           date_start: '2019-07-01'
           date_end: ''
