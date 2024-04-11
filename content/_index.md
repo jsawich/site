@@ -224,11 +224,11 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
+  # - block: tag_cloud
+  #   content:
+  #     title: Popular Topics
+  #   design:
+  #     columns: '2'
   - block: contact
     id: contact
     content:
@@ -255,11 +255,11 @@ sections:
       # coordinates:
       #   latitude: '37.4275'
       #   longitude: '-122.1697'  
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
+      # contact_links:
+      #   - icon: twitter
+      #     icon_pack: fab
+      #     name: DM Me
+      #     link: 'https://twitter.com/Twitter'
         # - icon: skype
         #   icon_pack: fab
         #   name: Skype Me
@@ -269,7 +269,7 @@ sections:
         #   name: Zoom Me
         #   link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
-      autolink: true
+      # autolink: true
       # Email form provider
       # form:
       #   provider: netlify
