@@ -44,10 +44,10 @@ education:
       year: 2021-2022
     - course: MSc Economics
       institution: LMU Munich
-      year: 2019
+      year: 2016-2019
     - course: BA Philosophy & Economics
       institution: Bayreuth University
-      year: 2016
+      year: 2012-2016
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
