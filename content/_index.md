@@ -95,11 +95,10 @@ sections:
           date_start: '2019-07-01'
           date_end: ''
           description: |2-
-              Wissenschaftlicher Mitarbeiter
+              Institute of Macroeconomics
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Organization of two international conferences in Hannover: EPCS 2023, GDE 2024
+              * Teaching in *Growth and Development*, *Introduction to Macroeconomics*
         - title: Visiting Researcher
           company: UC San Diego
           company_url: ''
