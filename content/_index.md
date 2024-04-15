@@ -64,14 +64,14 @@ sections:
   - block: collection
     content:
       title: Current Research
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+      # text: |-
+      #   {{% callout note %}}
+      #   Quickly discover relevant content by [filtering publications](./publication/).
+      #   {{% /callout %}}
       filters:
         folders:
           - publication
-        exclude_featured: true
+        exclude_featured: false
     design:
       columns: '2'
       view: citation
@@ -115,7 +115,7 @@ sections:
           date_start: '2018-03-01'
           date_end: '2019-06-01'
           description: |2-
-          
+
               * Economics of Education Area
               * Energy, Climate and Resources Area
     design:
