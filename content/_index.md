@@ -246,7 +246,10 @@ sections:
       subtitle:
       text: |-
         Feel free to contact me, I am looking forward to your message. You can also meet me this year at the following conferences: 
-        German Development Economics Hannover 2024, EAERE Leuven 2024, BBQ Groningen 2024.
+
+          - German Development Economics Hannover 2024, 
+          - EAERE Leuven 2024, 
+          - BBQ Groningen 2024
       # Contact (add or remove contact options as necessary)
       email: wichert@mak.uni-hannover.de
       #phone: 888 888 88 88
