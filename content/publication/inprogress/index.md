@@ -31,8 +31,8 @@ abstract: A growing body of literature indicates that heat stress and precipitat
 summary: We use a quasi natural experiment to shed light on the recall of drought events in rural Thailand and we find that a shorter time between surveys has a large positive effect on households correctly reporing a drought event. 
 
 tags:
-- Source Themes
-featured: false
+- [Natural disaster, health, drought, recall, survey design]
+featured: true
 
 links:
 url_pdf: ''
