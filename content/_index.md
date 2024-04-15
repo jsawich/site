@@ -97,7 +97,7 @@ sections:
           description: |2-
               Institute of Macroeconomics
 
-              * Organization of two international conferences in Hannover: EPCS 2023, GDE 2024
+              * Organization of two international conferences in Hannover: [EPCS 2023](https://www.epcs2023.uni-hannover.de/en/), EPCS 2023, GDE 2024
               * Teaching in *Growth and Development*, *Introduction to Macroeconomics*
         - title: Visiting Researcher
           company: UC San Diego
@@ -114,8 +114,9 @@ sections:
           location: Munich, Germany
           date_start: '2018-03-01'
           date_end: '2019-06-01'
-          description: Economics of Education Area
-          Energy, Climate and Resources Area
+          description: |2-
+              Economics of Education Area
+              Energy, Climate and Resources Area
     design:
       columns: '2'
   # - block: accomplishments
