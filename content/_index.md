@@ -115,8 +115,9 @@ sections:
           date_start: '2018-03-01'
           date_end: '2019-06-01'
           description: |2-
-              Economics of Education Area
-              Energy, Climate and Resources Area
+          
+              * Economics of Education Area
+              * Energy, Climate and Resources Area
     design:
       columns: '2'
   # - block: accomplishments
