@@ -89,7 +89,7 @@ sections:
       items:
         - title: PhD Student/Researcher
           company: Leibniz University Hannover
-          company_url: ''
+          company_url: 'https://www.mak.uni-hannover.de/en/'
           company_logo: org-gc
           location: Hannover, Germany
           date_start: '2019-07-01'
@@ -101,12 +101,12 @@ sections:
               * Teaching in *Growth and Development*, *Introduction to Macroeconomics*
         - title: Visiting Researcher
           company: UC San Diego
-          company_url: ''
+          company_url: 'https://gps.ucsd.edu/'
           company_logo: org-x
           location: San Diego, US
           date_start: '2021-08-01'
           date_end: '2022-02-01'
-          description: Visitor at Global School of Policy and Strategy, Jen Burney
+          description: Global School of Policy and Strategy, Jen Burney
     design:
       columns: '2'
   # - block: accomplishments
