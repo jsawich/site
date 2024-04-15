@@ -97,7 +97,7 @@ sections:
           description: |2-
               Institute of Macroeconomics
 
-              * Co-Organization of two international conferences in Hannover: [EPCS 2023](https://www.epcs2023.uni-hannover.de/en/), EPCS 2023, GDE 2024
+              * Co-Organization of two international conferences in Hannover: [EPCS 2023](https://www.epcs2023.uni-hannover.de/en/), [GDE 2024](https://www.gdec2024.uni-hannover.de/en/)
               * Teaching in *Growth and Development*, *Introduction to Macroeconomics*
         - title: Visiting Researcher
           company: UC San Diego
