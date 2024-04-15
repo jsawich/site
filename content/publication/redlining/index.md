@@ -1,16 +1,20 @@
 ---
-title: "Storms and Global Shipping: Resilience of the Global Container Shipping Network,"
+title: "The Effect of the 1930s Residential Security Maps on Environmental Disparities"
 authors:
 - admin
-- Vincent Stamer
-author_notes:
-- "Leibniz University Hannover"
-- "Commerzbank Research"
-date: "2024-04-01T00:00:00Z"
+- Richard Bluhm
+- Luca Perdoni
+date: "2024-01-01T00:00:00Z"
 doi: ""
 
+# Author notes (optional)
+author_notes:
+  - 'Leibniz University Hannover'
+  - 'Stuttgart University'
+  - 'ifo Institute'
+
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-04-01T00:00:00Z"
+publishDate: "2024-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -21,18 +25,16 @@ publication_types: ["paper"]
 publication: ""
 publication_short: ""
 
-abstract: This paper investigates how much bilateral trade is affected by temporary disruptions of shipping networks caused by storms. Specifically, we examine how much trade is directed to other shipping routes or does not take place at all. We unpack the aggregate impact of oceanic cyclones by examining transportation volume and freight rates by a major container ship company. In event-studies nested in a gravity-style equation, we find that a cyclone reduces trade by 2% between countries across all modes of transport, while this effect doubles for affected port-pairs. After a storm, shipping firms increase freight rates on affected routes amplifying the trading impact. Neighboring port pairs step in as substitutes for industrially relevant goods such as machinery, electrical and intermediate materials. Data on geo-located ship voyages show that following a storm, ships travel at slower speed incurring delay by up to 30 hours depending on the shipping company.
+abstract: Have discriminatory housing policies contributed to today's pollution and climate hazard disparities? We examine the impact of ``Redlining'' during the 1930s in the US, which assigned risk grades to neighborhoods according to housing characteristics and ethnic composition, on spatial patterns of urban environmental disparities. An extensive literature on environmental justice documents strong correlations between a worse neighborhood risk grade and higher air pollution and climate risks today. However, whether these disparities have been \textit{caused} by ``redlining'' or merely coincide with pre-existing discrimination is unclear. Our analysis exploits an exogenous city size cutoff i.e. only neighborhoods in cities above 40,000 residents received risk grades from HOLC. We compare areas that received a particular grade with neighborhoods that would have received the same grade if their city had been treated. The control neighborhoods are defined using a machine learning algorithm trained to classify HOLC-like grades using full-count census records. Using local measures of environmental hazards, we find that the disparities exhibit the same pattern in treated and comparison cities, with meagre differences across the same grade in treatment and control cities. Instead, our results suggest that sorting, and alternative forms of discrimination drive contemporary environmental and climate disparities. 
 
 # Summary. An optional shortened abstract.
-summary: This paper investigates how much bilateral trade is affected by temporary disruptions of shipping networks caused by storms. 
+summary: Have discriminatory housing policies contributed to today's pollution and climate hazard disparities?
 
 tags:
-- [Trade, Trade Cost, Natural Disaster, Resilience, Ports]
+- [Air Pollution, Urban Economics, Economics of Minoritiesn]
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
+links:
 url_pdf: ''
 url_code: ''
 url_dataset: ''
@@ -45,7 +47,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Event-study effect of storm on trade volumen and freight cost'
+  caption: 'Figure 3: Event-study results from the paper'
   focal_point: ""
   preview_only: false
 
@@ -54,7 +56,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects:
+- []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -63,10 +66,6 @@ projects: []
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
 
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
