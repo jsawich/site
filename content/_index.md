@@ -107,6 +107,15 @@ sections:
           date_start: '2021-08-01'
           date_end: '2022-02-01'
           description: Global School of Policy and Strategy, Jen Burney
+        - title: Research assistant
+          company: ifo Institute
+          company_url: 'https://ifo.de/'
+          company_logo: org-x
+          location: Munich, Germany
+          date_start: '2018-03-01'
+          date_end: '2019-06-01'
+          description: Economics of Education Area
+          Energy, Climate and Resources Area
     design:
       columns: '2'
   # - block: accomplishments
