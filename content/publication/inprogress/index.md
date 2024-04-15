@@ -32,7 +32,7 @@ summary: We use a quasi natural experiment to shed light on the recall of drough
 
 tags:
 - [Natural disaster, health, drought, recall, survey design]
-featured: true
+featured: false
 
 links:
 url_pdf: ''
