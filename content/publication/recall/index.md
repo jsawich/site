@@ -1,20 +1,20 @@
 ---
-title: "Weather shock, recall error and health: evidence from rural Thailand"
+title: "The Effect of the 1930s Residential Security Maps on Environmental Disparities"
 authors:
 - admin
-- Annika Herr
-- Soschia Karimi
-date: "2024-04-01T00:00:00Z"
+- Richard Bluhm
+- Luca Perdoni
+date: "2024-01-01T00:00:00Z"
 doi: ""
 
 # Author notes (optional)
 author_notes:
   - 'Leibniz University Hannover'
-  - 'Leibniz University Hannover, Institute of Health Economics'
-  - 'Leibniz University Hannover, Institute of Health Economics'
+  - 'Stuttgart University'
+  - 'ifo Institute'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-02-01T00:00:00Z"
+publishDate: "2024-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -25,13 +25,13 @@ publication_types: ["paper"]
 publication: ""
 publication_short: ""
 
-abstract: A growing body of literature indicates that heat stress and precipitation deficiencies can pose a critical threat to human health, particularly in less developed countries with low coping capacities and high exposure. The aims of this study are twofold. First, we shed light on the recall of drought events in rural Thailand by linking longitudinal survey data with objective meteorological data. Here, an anomaly in the survey design serves as a natural experiment. We find that a shorter time interval between surveys has a large positive effect on households correctly reporting a drought event. Second, we shed light on the health effects of droughts. In our panel over seven waves, we find a strong effect on diseases reported by the households, which emphasizes the importance of strategies to cope with extreme weather events. 
+abstract: Have discriminatory housing policies contributed to today's pollution and climate hazard disparities? We examine the impact of ``Redlining'' during the 1930s in the US, which assigned risk grades to neighborhoods according to housing characteristics and ethnic composition, on spatial patterns of urban environmental disparities. An extensive literature on environmental justice documents strong correlations between a worse neighborhood risk grade and higher air pollution and climate risks today. However, whether these disparities have been \textit{caused} by ``redlining'' or merely coincide with pre-existing discrimination is unclear. Our analysis exploits an exogenous city size cutoff i.e. only neighborhoods in cities above 40,000 residents received risk grades from HOLC. We compare areas that received a particular grade with neighborhoods that would have received the same grade if their city had been treated. The control neighborhoods are defined using a machine learning algorithm trained to classify HOLC-like grades using full-count census records. Using local measures of environmental hazards, we find that the disparities exhibit the same pattern in treated and comparison cities, with meagre differences across the same grade in treatment and control cities. Instead, our results suggest that sorting, and alternative forms of discrimination drive contemporary environmental and climate disparities. 
 
 # Summary. An optional shortened abstract.
-summary: We use a quasi natural experiment to shed light on the recall of drought events in rural Thailand and we find that a shorter time between surveys has a large positive effect on households correctly reporing a drought event. 
+summary: Have discriminatory housing policies contributed to today's pollution and climate hazard disparities?
 
 tags:
-- [Natural disaster, health, drought, recall, survey design]
+- [Air Pollution, Urban Economics, Economics of Minoritiesn]
 featured: false
 
 links:
