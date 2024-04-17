@@ -102,7 +102,7 @@ sections:
         - title: Visiting Researcher
           company: UC San Diego
           company_url: 'https://gps.ucsd.edu/'
-          company_logo: org-x
+          company_logo: logo_UCSD
           location: San Diego, US
           date_start: '2021-08-01'
           date_end: '2022-02-01'
@@ -110,7 +110,7 @@ sections:
         - title: Research assistant
           company: ifo Institute
           company_url: 'https://ifo.de/'
-          company_logo: org-x
+          company_logo: logo_ifo
           location: Munich, Germany
           date_start: '2018-03-01'
           date_end: '2019-06-01'
