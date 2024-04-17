@@ -110,7 +110,7 @@ sections:
         - title: Research assistant
           company: ifo Institute
           company_url: 'https://ifo.de/'
-          company_logo: 
+          company_logo: []
           location: Munich, Germany
           date_start: '2018-03-01'
           date_end: '2019-06-01'
