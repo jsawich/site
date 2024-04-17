@@ -90,7 +90,7 @@ sections:
         - title: PhD Student/Researcher
           company: Leibniz University Hannover
           company_url: 'https://www.mak.uni-hannover.de/en/'
-          company_logo: org-gc
+          company_logo: luh_logo
           location: Hannover, Germany
           date_start: '2019-07-01'
           date_end: ''
