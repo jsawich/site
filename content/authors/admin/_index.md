@@ -123,5 +123,5 @@ social:
 highlight_name: true
 ---
 
-Hi, I am a PhD researcher at the Leibniz University Hannover. My research interests are development and environmental economics. I work with large and unique datasets using up-to-date econometric methods to develop interesting insights often with important policy implications. 
+Hi, I am a researcher and PhD student at the Leibniz University Hannover. My research interests are development and environmental economics. I work with large and unique datasets using up-to-date econometric methods to develop interesting insights often with important policy implications. 
 {style="text-align: justify;"}
