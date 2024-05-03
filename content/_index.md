@@ -248,6 +248,7 @@ sections:
       text: |-
         Feel free to contact me, I am looking forward to your message. You can also meet me this year at the following conferences: 
 
+          - EEA Rotterdam 2024
           - German Development Economics Hannover 2024
           - EAERE Leuven 2024
           - BBQ Groningen 2024
