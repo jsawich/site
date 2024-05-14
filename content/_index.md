@@ -102,7 +102,7 @@ sections:
         - title: Visiting Researcher
           company: UC San Diego
           company_url: 'https://gps.ucsd.edu/'
-          company_logo: uc_san_diego
+          company_logo: uc-san-diego
           location: San Diego, US
           date_start: '2021-08-01'
           date_end: '2022-02-01'
