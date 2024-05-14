@@ -251,6 +251,7 @@ sections:
           - EEA Rotterdam 2024
           - German Development Economics Hannover 2024
           - EAERE Leuven 2024
+          - Verein für Socialpolitik Berlin 2024
           - BBQ Groningen 2024
       # Contact (add or remove contact options as necessary)
       email: wichert@mak.uni-hannover.de
