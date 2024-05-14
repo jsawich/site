@@ -127,5 +127,5 @@ Hi, I am a researcher and PhD student at the [Leibniz University Hannover](https
 
 I visited [UC San Diego](https://gps.ucsd.edu/) for an academic research stay in 2021-22. 
 
-I will be on the academic job market in 2024/25.
+In 2024/25, I will be on the academic job market.
 {style="text-align: justify;"}
