@@ -1,5 +1,5 @@
 ---
-title: "Storms and Global Shipping: Resilience of the Global Container Shipping Network,"
+title: "Storms and Global Shipping: Resilience of the Global Container Shipping Network"
 authors:
 - admin
 - Vincent Stamer
