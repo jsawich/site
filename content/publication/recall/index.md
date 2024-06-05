@@ -1,5 +1,5 @@
 ---
-title: "Weather shocks, recall error and health: evidence from rural Thailand"
+title: "Weather Shocks, Recall Error and Health: Evidence from rural Thailand"
 authors:
 - admin
 - Annika Herr
@@ -47,7 +47,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Figure 3: Event-study results from the paper'
+  caption: ''
   focal_point: "Center"
   preview_only: false
 
