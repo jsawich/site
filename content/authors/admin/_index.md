@@ -123,7 +123,7 @@ social:
 highlight_name: true
 ---
 
-Hi, I am a researcher and PhD student at the [Leibniz University Hannover](https://www.mak.uni-hannover.de/en/wichert). My research interests are development and environmental economics. I work with large and unique datasets using up-to-date econometric methods to develop interesting insights often with important policy implications. 
+Hi, I am a researcher and PhD student at the [Leibniz University Hannover](https://www.mak.uni-hannover.de/en/wichert). My research lies at the intersection between development and environmental economics. I work with large and unique datasets using up-to-date econometric methods to develop interesting insights that have important policy implications. 
 
 I visited [UC San Diego](https://gps.ucsd.edu/) for an academic research stay in 2021-22. 
 
