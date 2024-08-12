@@ -249,11 +249,12 @@ sections:
       text: |-
         Feel free to contact me, I am looking forward to your message. You can also meet me this year at the following conferences: 
 
-          - EEA Rotterdam 2024
-          - German Development Economics Hannover 2024
-          - EAERE Leuven 2024
-          - Verein für Socialpolitik Berlin 2024
-          - BBQ Groningen 2024
+          - EEA Rotterdam
+          - German Development Economics Hannover
+          - EAERE Leuven 
+          - Verein für Socialpolitik Berlin 
+          - Workshop on Causal Inference with Spatial Data Essen 
+          - BBQ Groningen 
       # Contact (add or remove contact options as necessary)
       email: wichert@mak.uni-hannover.de
       #phone: 888 888 88 88
