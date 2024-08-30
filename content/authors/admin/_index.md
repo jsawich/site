@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Researcher in environmental and development economics
+role: PhD Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
