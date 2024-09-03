@@ -30,7 +30,7 @@ bio: My goal is to contribute to our understanding of the environment and develo
 # Interests to show in About widget
 interests:
   - Development Economics
-  - Environmental Economics
+  - Environmental and Urban Economics
   - Geospatial, textual data
 
 # Education to show in About widget
