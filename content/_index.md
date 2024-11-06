@@ -247,7 +247,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Feel free to contact me, I am looking forward to your message. You can also meet me this year at the following conferences: 
+        Feel free to contact me, I am looking forward to your message. This year, I attended the following conferences: 
 
           - EEA Rotterdam
           - German Development Economics Hannover
