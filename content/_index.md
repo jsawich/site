@@ -257,7 +257,6 @@ Research Workshop in Economics (Goslar)
        #    - event
      design:
        columns: '1'
-       view: compact
    - block: tag_cloud
      content:
        title: Popular Topics
