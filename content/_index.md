@@ -256,7 +256,7 @@ sections:
        #    - event
 #     design:
 #       columns: '1'
-   - block: tag_cloud
+  - block: tag_cloud
      content:
        title: Popular Topics
      design:
