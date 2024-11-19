@@ -75,52 +75,6 @@ sections:
     design:
       columns: '2'
       view: card
-  - block: experience
-    content:
-      title: Experience
-      # Date format for experience
-      #   Refer to https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: PhD Student/Researcher
-          company: Leibniz University Hannover
-          company_url: 'https://www.mak.uni-hannover.de/en/'
-          company_logo: luh_logo
-          location: Hannover, Germany
-          date_start: '2019-07-01'
-          date_end: ''
-          description: |2-
-              Institute of Macroeconomics
-
-              * Co-Organization of two international conferences in Hannover: [EPCS 2023](https://www.epcs2023.uni-hannover.de/en/), [GDE 2024](https://www.gdec2024.uni-hannover.de/en/)
-              * Teaching in *Growth and Development* and *Introduction to Macroeconomics*
-              * IT officer of the institute
-        - title: Visiting Researcher
-          company: UC San Diego
-          company_url: 'https://gps.ucsd.edu/'
-          company_logo: uc-san-diego
-          location: San Diego, US
-          date_start: '2021-08-01'
-          date_end: '2022-02-01'
-          description: Global School of Policy and Strategy, Jen Burney
-        - title: Research assistant
-          company: ifo Institute
-          company_url: 'https://ifo.de/'
-          company_logo: Ifo_Institut_für_Wirtschaftsforschung_logo
-          location: Munich, Germany
-          date_start: '2018-03-01'
-          date_end: '2019-06-01'
-          description: |2-
-
-              * Economics of Education Area
-              * Energy, Climate and Resources Area
-    design:
-      columns: '2'
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -261,6 +215,53 @@ sections:
 #       title: Popular Topics
 #     design:
 #       columns: '2'
+  - block: experience
+    content:
+      title: Experience
+      # Date format for experience
+      #   Refer to https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: PhD Student/Researcher
+          company: Leibniz University Hannover
+          company_url: 'https://www.mak.uni-hannover.de/en/'
+          company_logo: luh_logo
+          location: Hannover, Germany
+          date_start: '2019-07-01'
+          date_end: ''
+          description: |2-
+              Institute of Macroeconomics
+
+              * Co-Organization of two international conferences in Hannover: [EPCS 2023](https://www.epcs2023.uni-hannover.de/en/), [GDE 2024](https://www.gdec2024.uni-hannover.de/en/)
+              * Teaching in *Growth and Development* and *Introduction to Macroeconomics*
+              * IT officer of the institute
+        - title: Visiting Researcher
+          company: UC San Diego
+          company_url: 'https://gps.ucsd.edu/'
+          company_logo: uc-san-diego
+          location: San Diego, US
+          date_start: '2021-08-01'
+          date_end: '2022-02-01'
+          description: Global School of Policy and Strategy, Jen Burney
+        - title: Research assistant
+          company: ifo Institute
+          company_url: 'https://ifo.de/'
+          company_logo: Ifo_Institut_für_Wirtschaftsforschung_logo
+          location: Munich, Germany
+          date_start: '2018-03-01'
+          date_end: '2019-06-01'
+          description: |2-
+
+              * Economics of Education Area
+              * Energy, Climate and Resources Area
+    design:
+      columns: '2'
+
   - block: contact
     id: contact
     content:
