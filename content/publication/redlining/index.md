@@ -1,10 +1,10 @@
 ---
-title: "The Effect of the 1930s Residential Security Maps on Environmental Disparities"
+title: "Sorting or Siting? Evidence from the 1930 Residential Security Maps"
 authors:
 - admin
 - Richard Bluhm
 - Luca Perdoni
-date: "2024-06-01T00:00:00Z"
+date: "2024-11-01T00:00:00Z"
 doi: ""
 
 # Author notes (optional)
@@ -25,13 +25,13 @@ publication_types: ["paper"]
 publication: "Conference draft"
 publication_short: ""
 
-abstract: Have discriminatory housing policies contributed to today's pollution and climate hazard disparities? We examine the impact of *Redlining* during the 1930s in the US, which assigned risk grades to neighborhoods according to housing characteristics and ethnic composition, on spatial patterns of urban environmental disparities. An extensive literature on environmental justice documents strong correlations between a worse neighborhood risk grade and higher air pollution and climate risks today. However, whether these disparities have been *caused* by *redlining* or merely coincide with pre-existing discrimination is unclear. Our analysis exploits an exogenous city size cutoff i.e. only neighborhoods in cities above 40,000 residents received risk grades from HOLC. We compare areas that received a particular grade with neighborhoods that would have received the same grade if their city had been treated. The control neighborhoods are defined using a machine learning algorithm trained to classify HOLC-like grades using full-count census records. Using local measures of environmental hazards, we find that the disparities exhibit the same pattern in treated and comparison cities, with meagre differences across the same grade in treatment and control cities. Instead, our results suggest that sorting, and alternative forms of discrimination drive contemporary environmental and climate disparities. 
+abstract: Environmental inequalities, such as disproportionate exposure to pollution and climate risks, persist across racial and socioeconomic groups in the United States. A key unresolved question is whether these disparities are driven by sorting (households moving into riskier areas) or siting (the placement of environmental hazards in marginalized neighborhoods). This paper provides causal evidence by leveraging discriminatory lending practices during the 1930s as a natural experiment. Using Residential Security Maps created by the Home Owners' Loan Corporation (HOLC), we combine machine learning predictions of counterfactual grades for unmapped cities with a spatial difference-in-differences design. Our findings confirm that HOLC maps increased racial segregation in the short and long run, especially in low-income neighborhoods. However, we find no evidence that environmental hazards---such as heat or flood risks---are disproportionately concentrated in treated neighborhoods. These results highlight the fundamental role of sorting, rather than siting, in driving the environmental inequalities observed today.
 
 # Summary. An optional shortened abstract.
-summary: Have discriminatory housing policies contributed to today's pollution and climate hazard disparities? We examine the impact of *Redlining* during the 1930s in the US, which assigned risk grades to neighborhoods according to housing characteristics and ethnic composition, on spatial patterns of urban environmental disparities. An extensive literature on environmental justice documents strong correlations between a worse neighborhood risk grade and higher air pollution and climate risks today. However, whether these disparities have been *caused* by *redlining* or merely coincide with pre-existing discrimination is unclear. Our analysis exploits an exogenous city size cutoff i.e. only neighborhoods in cities above 40,000 residents received risk grades from HOLC. We compare areas that received a particular grade with neighborhoods that would have received the same grade if their city had been treated. The control neighborhoods are defined using a machine learning algorithm trained to classify HOLC-like grades using full-count census records. Using local measures of environmental hazards, we find that the disparities exhibit the same pattern in treated and comparison cities, with meagre differences across the same grade in treatment and control cities. Instead, our results suggest that sorting, and alternative forms of discrimination drive contemporary environmental and climate disparities. 
+summary: Environmental inequalities, such as disproportionate exposure to pollution and climate risks, persist across racial and socioeconomic groups in the United States. A key unresolved question is whether these disparities are driven by sorting (households moving into riskier areas) or siting (the placement of environmental hazards in marginalized neighborhoods). This paper provides causal evidence by leveraging discriminatory lending practices during the 1930s as a natural experiment. Using Residential Security Maps created by the Home Owners' Loan Corporation (HOLC), we combine machine learning predictions of counterfactual grades for unmapped cities with a spatial difference-in-differences design. Our findings confirm that HOLC maps increased racial segregation in the short and long run, especially in low-income neighborhoods. However, we find no evidence that environmental hazards---such as heat or flood risks---are disproportionately concentrated in treated neighborhoods. These results highlight the fundamental role of sorting, rather than siting, in driving the environmental inequalities observed today.
 
 tags:
-- [Air Pollution, Urban Economics, Economics of Minoritiesn]
+- [Air Pollution, Urban Economics, Economics of Minorities]
 featured: false
 
 links:
