@@ -18,8 +18,8 @@ publishDate: "2024-09-01T00:00:00Z"
 publication_types: ["paper"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Job Market Paper"
+publication_short: "Job Market Paper"
 
 abstract: This paper investigates how much bilateral trade is affected by temporary disruptions of shipping networks caused by storms. Specifically, we examine how much trade is directed to other shipping routes or does not take place at all. We unpack the aggregate impact of oceanic cyclones by examining transportation volume and freight costs by a major container ship company. In event-studies nested in a gravity-style equation, we find that a cyclone reduces trade by 1.3\% between countries across all modes of transport, while this effect more than doubles for affected port-pairs. After a storm, shipping firms charge higher freight costs on affected routes amplifying the trading impact. Adjacent shipping routes step in as substitutes for  minerals and chemicals. Data on geo-located ship voyages show that following a storm, ships travel at slower speed incurring delay by up to 30 hours depending on the shipping company.
 

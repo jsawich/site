@@ -25,8 +25,8 @@ doi: ''
 publication_types: ['paper']
 
 # Publication name and optional abbreviated publication name.
-# publication: Journal of Development Economics
-# publication_short: In *JDE*
+publication: 'Working Paper available on request'
+publication_short: 'Working Paper'
 
 abstract: A growing body of evidence shows that adverse environmental conditions affect human capital and socio-economic outcomes. However, little is known about whether the experience of such events early in life has effects on skill formation that are long-lasting and persist into adulthood, and about whether the demographic context mediates these effects. Here, we shed first light on these questions by combining data from a large cognitive skills survey spanning more than 30,000 individuals from birth cohorts over five decades in 11 countries, with retrospective information about weather conditions at the local level during early childhood. The results show that drought exposure during childhood has a negative effect on skill formation that persists later in life. This effect is mainly restricted to a high-fertility context, mitigated in families with high  socio-economic standing, and by parents actively involved in their children’s school performance.
 
