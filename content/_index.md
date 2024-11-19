@@ -268,14 +268,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Feel free to contact me, I am looking forward to your message. This year, I attended the following conferences: 
-
-          - EEA Rotterdam
-          - German Development Economics Hannover
-          - EAERE Leuven 
-          - Verein für Socialpolitik Berlin 
-          - Workshop on Causal Inference with Spatial Data Essen 
-          - BBQ Groningen 
+        Feel free to contact me, I am looking forward to your message. 
       # Contact (add or remove contact options as necessary)
       email: wichert@mak.uni-hannover.de
       #phone: 888 888 88 88
