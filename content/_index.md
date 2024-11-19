@@ -235,25 +235,19 @@ sections:
   #   design:
   #     columns: '2'
   #     view: compact
-#   - block: markdown
-#     id: talks
-#     content:
-#       title: Recent & Upcoming Talks
-#       text: |-
-#2024 EEA (Rotterdam), German Development Economics Conference (Hannover), European
-#Association of Environmental and Resource Economics (Leuven), Workshop on Causal
-#Inference with Spatial Data (Essen), Verein für Socialpolitik (Berlin), Job Market
-#Preparation Seminar by VfS (Berlin), Beyond Basic Questions (Groningen)
-#2023 German Development Economics Conference (Dresden), Verein für Socialpolitik (Re-
-#gensburg), Leibniz Environment and Development Symposium (Essen), European Public
-#Choice Society (Hannover), Ruhr Graduate School (Bochum), Mannheim Conference
-#on Energy and the Environment (Mannheim), Beyond Basic Questions (Stuttgart)
+  - block: markdown
+    id: talks
+    content:
+      title: Recent & Upcoming Talks
+      text: |-
+        2024 EEA (Rotterdam), German Development Economics Conference (Hannover), European Association of Environmental and Resource Economics (Leuven), Workshop on Causal Inference with Spatial Data (Essen), Verein für Socialpolitik (Berlin), Job Market Preparation Seminar by VfS (Berlin), Beyond Basic Questions (Groningen)
 
-#2022 European Public Choice Society (Braga), Beyond Basic Questions (Bern), Hike &
-#Research Workshop in Economics (Goslar)
-       #filters:
-       #  folders:
-       #    - event
+        2023 German Development Economics Conference (Dresden), Verein für Socialpolitik (Regensburg), Leibniz Environment and Development Symposium (Essen), European Public Choice Society (Hannover), Ruhr Graduate School (Bochum), Mannheim Conference on Energy and the Environment (Mannheim), Beyond Basic Questions (Stuttgart)
+
+        2022 European Public Choice Society (Braga), Beyond Basic Questions (Bern), Hike & #Research Workshop in Economics (Goslar)
+#       filters:
+#         folders:
+#           - event
 #     design:
 #       columns: '1'
 #  - block: tag_cloud
