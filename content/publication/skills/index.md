@@ -55,7 +55,7 @@ featured: true
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Figure 5 from the publication'
+  caption: 'Figure from the publication'
   focal_point: "Center"
   preview_only: false
 
