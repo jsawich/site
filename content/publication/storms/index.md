@@ -28,7 +28,7 @@ summary: This paper investigates how much bilateral trade is affected by tempora
 
 tags:
 - [Trade, Trade Cost, Natural Disaster, Resilience, Ports]
-featured: false
+featured: true
 
 # links:
 # - name: ""
