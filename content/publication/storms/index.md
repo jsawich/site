@@ -5,7 +5,7 @@ authors:
 - Vincent Stamer
 author_notes:
 - "Leibniz University Hannover"
-- "Commerzbank Research"
+- "formerly: IfW Kiel, now: Commerzbank Research"
 date: "2024-08-01T00:00:00Z"
 doi: ""
 
