@@ -127,5 +127,5 @@ Hi, I am a researcher and PhD student at the [Leibniz University Hannover](https
 
 I visited [UC San Diego](https://gps.ucsd.edu/) for an academic research stay in 2021-22. 
 
-In 2024/25, I will be on the academic job market.
+News: I am looking forward to join the team of [Prof. Arndt Reichert ](https://sites.google.com/site/arndtruedigerreichert/home)as a post-doctoral researcher (*Akademischer Rat*) in May 2025.
 {style="text-align: justify;"}
