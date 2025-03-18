@@ -126,6 +126,6 @@ highlight_name: true
 Hi, I am a researcher and PhD student at the [Leibniz University Hannover](https://www.mak.uni-hannover.de/en/wichert). I am an applied economist, my main fields are development economics, environmental economics and political economy. I work with large and unique datasets using up-to-date econometric methods to develop interesting insights that have important policy implications. 
 
 I visited [UC San Diego](https://gps.ucsd.edu/) for an academic research stay in 2021-22. 
-
+ 
 News: I am looking forward to join the team of [Prof. Arndt Reichert ](https://sites.google.com/site/arndtruedigerreichert/home)as a post-doctoral researcher (*Akademischer Rat*) in May 2025.
 {style="text-align: justify;"}
