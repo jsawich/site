@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Researcher
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Leibniz University Hannover
-    url: https://www.mak.uni-hannover.de/en/wichert
+    url: https://www.ihe.uni-hannover.de/en/wichert
 
 # Short bio (displayed in user profile at end of posts)
 bio: My goal is to contribute to our understanding of the environment and development intersection.
@@ -36,9 +36,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD student/Researcher
+    - course: PhD Economics
       institution: Leibniz University Hannover
-      year: since 2019
+      year: 2019-2025
     - course: Visiting Researcher
       institution: UC San Diego 
       year: 2021-2022
@@ -96,7 +96,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:wichert@mak.uni-hannover.de'
+    link: 'mailto:julian.wichert@ihe.uni-hannover.de'
   - icon: twitter
     icon_pack: fab
     link: https://www.twitter.com/julianwichert
@@ -123,7 +123,7 @@ social:
 highlight_name: true
 ---
 
-Hi, I am a post-doctoral researcher at the [Leibniz University Hannover](https://www.mak.uni-hannover.de/en/wichert). I am an applied economist, my main fields are development economics, environmental economics and political economy. I work with large and unique datasets using up-to-date econometric methods to develop interesting insights that have important policy implications. 
+Hi, I am a post-doctoral researcher at the [Leibniz University Hannover](https://www.ihe.uni-hannover.de/en/wichert). I am an applied economist, my main fields are development economics, environmental economics and political economy. I work with large and unique datasets using up-to-date econometric methods to develop interesting insights that have important policy implications. 
 
 I visited [UC San Diego](https://gps.ucsd.edu/) for an academic research stay in 2021-22. In 2025, I completed my PhD under the supervision of Prof. Martin Gassebner (LUH) and Prof. Uwe Sunde (LMU).
 
