@@ -241,19 +241,26 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: PhD Student/Researcher
+        - title: Postdoctoral Researcher
+          company: Leibniz University Hannover
+          company_url: 'https://www.ihe.uni-hannover.de/en/wichert'
+          company_logo: luh_logo
+          location: Hannover, Germany
+          date_start: '2025-04-01'
+          date_end: ''
+          description: |2-
+
+              Institute of Health Economics
+        - title: PhD Student/researcher
           company: Leibniz University Hannover
           company_url: 'https://www.mak.uni-hannover.de/en/'
           company_logo: luh_logo
           location: Hannover, Germany
           date_start: '2019-07-01'
-          date_end: ''
+          date_end: '2025-04-01'
           description: |2-
-              Institute of Macroeconomics
 
-              * Co-Organization of two international conferences in Hannover: [EPCS 2023](https://www.epcs2023.uni-hannover.de/en/), [GDE 2024](https://www.gdec2024.uni-hannover.de/en/)
-              * Teaching in *Growth and Development* and *Introduction to Macroeconomics*
-              * IT officer of the institute
+              Institute of Macroeconomics
         - title: Visiting Researcher
           company: UC San Diego
           company_url: 'https://gps.ucsd.edu/'
