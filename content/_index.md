@@ -53,7 +53,7 @@ sections:
   - block: collection
     id: publication
     content:
-      title: Job Market Paper
+      title: Under Review
       filters:
         folders:
           - publication

@@ -36,7 +36,7 @@ summary: A growing body of evidence shows that adverse environmental conditions 
 tags: [Natural disaster, childhood exposure, long-run effects]
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:

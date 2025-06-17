@@ -32,7 +32,7 @@ summary: A growing body of literature indicates that heat stress and precipitati
 
 tags:
 - [Natural disaster, health, drought, recall, survey design]
-featured: false
+featured: true
 
 links:
 url_pdf: ''
