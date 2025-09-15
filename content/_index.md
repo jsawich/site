@@ -53,7 +53,7 @@ sections:
   - block: collection
     id: publication
     content:
-      title: Under Review
+      title: Publications
       filters:
         folders:
           - publication
