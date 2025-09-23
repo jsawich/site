@@ -35,7 +35,7 @@ tags:
 featured: true
 
 links:
-url_pdf: ''
+url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0304387825001956'
 url_code: ''
 url_dataset: ''
 url_poster: ''
