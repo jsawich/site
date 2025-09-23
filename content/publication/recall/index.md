@@ -1,11 +1,11 @@
 ---
-title: "Weather Shocks, Recall Error and Health: Evidence from rural Thailand"
+title: "Weather Shocks, Recall Error and Health"
 authors:
 - admin
 - Annika Herr
 - Soschia Karimi
-date: "2025-09-01T00:00:00Z"
-doi: ""
+date: "2025-09-20T00:00:00Z"
+doi: "10.1016/j.jdeveco.2025.103644"
 
 # Author notes (optional)
 author_notes:
@@ -25,10 +25,10 @@ publication_types: ["paper"]
 publication: "Journal of Development Economics (forthcoming)"
 publication_short: "Journal of Development Economics (forthcoming)"
 
-abstract: A growing body of literature indicates that heat stress and precipitation deficiencies can pose a critical threat to human health, particularly in less developed countries with low coping capacities and high exposure. The aims of this study are twofold. First, we shed light on the recall of drought events in rural Thailand by linking longitudinal survey data with objective meteorological data. Here, an anomaly in the survey design serves as a natural experiment. We find that a shorter time interval between surveys has a large positive effect on households correctly reporting a drought event. Second, we examine the health effects of droughts using the objective drought measure. In our panel over seven waves, we find a strong effect on diseases, which is slightly stronger than when using the reported drought measure.
+abstract: A growing body of literature indicates that heat stress and precipitation deficiencies can pose a critical threat to human health, particularly in less developed countries with low coping capacities and high exposure. The aims of this study are twofold. First, we shed light on the recall of drought events in rural Thailand by linking longitudinal survey data with objective meteorological data. Here, an anomaly in the survey design serves as a natural experiment. We find that a shorter time interval between surveys has a large positive effect on households correctly reporting a drought event. Second, we examine the health effects of droughts comparing two drought measures. In our panel over seven waves, we find a strong effect on diseases, which is slightly stronger for the objective measure than when using the reported drought measure.
 
 # Summary. An optional shortened abstract.
-summary: A growing body of literature indicates that heat stress and precipitation deficiencies can pose a critical threat to human health, particularly in less developed countries with low coping capacities and high exposure. The aims of this study are twofold. First, we shed light on the recall of drought events in rural Thailand by linking longitudinal survey data with objective meteorological data. Here, an anomaly in the survey design serves as a natural experiment. We find that a shorter time interval between surveys has a large positive effect on households correctly reporting a drought event. Second, we examine the health effects of droughts using the objective drought measure. In our panel over seven waves, we find a strong effect on diseases, which is slightly stronger than when using the reported drought measure.
+summary: A growing body of literature indicates that heat stress and precipitation deficiencies can pose a critical threat to human health, particularly in less developed countries with low coping capacities and high exposure. The aims of this study are twofold. First, we shed light on the recall of drought events in rural Thailand by linking longitudinal survey data with objective meteorological data. Here, an anomaly in the survey design serves as a natural experiment. We find that a shorter time interval between surveys has a large positive effect on households correctly reporting a drought event. Second, we examine the health effects of droughts comparing two drought measures. In our panel over seven waves, we find a strong effect on diseases, which is slightly stronger for the objective measure than when using the reported drought measure.
 
 tags:
 - [Natural disaster, health, drought, recall, survey design]
