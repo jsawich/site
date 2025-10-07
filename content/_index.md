@@ -291,7 +291,7 @@ sections:
       text: |-
         Feel free to contact me, I am looking forward to your message. 
       # Contact (add or remove contact options as necessary)
-      email: wichert@mak.uni-hannover.de
+      email: julian.wichert@ihe.uni-hannover.de
       #phone: 888 888 88 88
       #appointment_url: 'https://calendly.com'
       address:
