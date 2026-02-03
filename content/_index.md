@@ -77,7 +77,7 @@ sections:
       view: card
   - block: collection
     content:
-      title: List of research
+      title: publications
       # text: |-
       #   {{% callout note %}}
       #   Quickly discover relevant content by [filtering publications](./publication/).
@@ -85,7 +85,21 @@ sections:
       filters:
         folders:
           - publication
-        exclude_featured: false
+        featured_only: true
+    design:
+      columns: '2'
+      view: citation
+  - block: collection
+    content:
+      title: Current research
+      # text: |-
+      #   {{% callout note %}}
+      #   Quickly discover relevant content by [filtering publications](./publication/).
+      #   {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
     design:
       columns: '2'
       view: citation
