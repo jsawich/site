@@ -3,7 +3,7 @@ title: "Distant Religious Attacks, Displacement and Women’s Empowerment"
 authors:
 - admin
 - Paola Elice
-- Fernanda Mart\'{i}nez Flores
+- Fernanda Martinez Flores
 - Arndt R. Reichert
 date: "2026-02-01T00:00:00Z"
 
@@ -32,7 +32,7 @@ summary: We examine the link between violent attacks of the Islamic extremist gr
 
 tags:
 - [Boko Haram, Fulani, conflict, forced displacement, female labor force participation, employment, fertility, social norms, gender norms]
-featured: true
+featured: false
 
 links:
 url_pdf: ''
