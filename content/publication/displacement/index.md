@@ -10,8 +10,9 @@ date: "2026-02-01T00:00:00Z"
 # Author notes (optional)
 author_notes:
   - 'Leibniz University Hannover'
-  - 'Leibniz University Hannover'
-  - 'Leibniz University Hannover'
+  - 'The World Bank'
+  - 'RWI, IZA'
+  - 'Leibniz University of Hannover, The World Bank, RWI'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2026-01-01T00:00:00Z"
