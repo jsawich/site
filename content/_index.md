@@ -222,6 +222,10 @@ sections:
     content:
       title: Recent & Upcoming Talks
       text: |-
+        **2026**
+        
+        German Development Economics Conference (Kiel), World Congress of Environmental and Resource Economics (Lisbon).
+
         **2024**
         
         EEA (Rotterdam), German Development Economics Conference (Hannover), European Association of Environmental and Resource Economics (Leuven), Workshop on Causal Inference with Spatial Data (Essen), Verein für Socialpolitik (Berlin), Job Market Preparation Seminar by VfS (Berlin), Beyond Basic Questions (Groningen)
